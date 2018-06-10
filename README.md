@@ -32,6 +32,6 @@ The actual plugin script in located within the ```js``` directory.
 ### API used
 Datamuse's words API
 
-### Unit Test Framework USed:
+### Unit Test Framework Used:
 Jasmine
 
