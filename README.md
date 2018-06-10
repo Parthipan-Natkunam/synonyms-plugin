@@ -23,8 +23,8 @@ from the suggested list at the cursor point in the editor.
 
 ### Steps to run the project:
 1. Clone this repo.
-2. The unit test canbe run by accessing the ```SpecRunner.html``` with in the ```tests``` directory.
-3. The ```index.html``` with in the root directory is a working prototupe and a fully functional demo for this plugin.
+2. The unit test can be run by accessing the ```SpecRunner.html``` with in the ```tests``` directory.
+3. The ```index.html``` with in the root directory is a working prototype and a fully functional demo for this plugin.
 
 ### The plugin script:
 The actual plugin script in located within the ```js``` directory.
